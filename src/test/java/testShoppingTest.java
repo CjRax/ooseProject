@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class testShopping {
+public class testShoppingTest {
 	@Test
 	public void testCustomerProfile() {
 		Customer u1 = new Customer("Hulk", 9487);
