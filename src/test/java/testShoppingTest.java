@@ -34,7 +34,7 @@ public class testShoppingTest {
 	@Test
 	public void testTotalPrice_ShoppingCar() {
 		List<Clothes> cList = new ArrayList<Clothes>();
-		Clothes c1 = new Clothes("A T-shirt", "T12345", 7);
+		Clothes c1 = new Clothes("A T-shirt", "T12345", 8);
 		Clothes c2 = new Clothes("B T-shirt", "T12346", 280);
 		Clothes c3 = new Clothes("C T-shirt", "T12347", 290);
 		cList.add(c1);
